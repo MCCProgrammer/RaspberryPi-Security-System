@@ -6,8 +6,8 @@
 
 A home alarm built with a Raspberry Pi. An ultrasonic sensor detects movement, the Pi sounds a buzzer and records a photo and a 10-second video with the camera module, and the alert arrives on your phone through **Discord**.
 
-![Illustration: Raspberry Pi with the camera module and a breadboard with the ultrasonic sensor and LEDs](docs/photo.png)
-<sub>AI-generated illustration of the build.</sub>
+![Photo: Raspberry Pi with the camera module and a breadboard with the ultrasonic sensor and LEDs](docs/photo.png)
+<sub>Real photo of the build, edited with AI to remove the jumper wires so the components are easier to see.</sub>
 
 ## How it works
 
