@@ -4,3 +4,4 @@ recordings/*.jpg
 recordings/*.h264
 recordings/*.mp4
 recordings/alarm_log.txt
+.DS_Store
